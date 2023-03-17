@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+### 🌱 I’m currently learning  Pyhton!
 
+1. Tipo Primitivos
+* int, float, str, bool
+2. Funções
+* print, input, .split, if, elif, else.
 <!--
 **APNaves/APNaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
