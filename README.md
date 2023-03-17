@@ -2,9 +2,19 @@
 ### 🌱 I’m currently learning  Pyhton!
 
 1. Tipo Primitivos
-* int, float, str, bool
+* str
+* int
+* float
+* bool
+
 2. Funções
-* print, input, .split, if, elif, else.
+* print() 
+* input()
+* .split()
+* .format()
+* if, elif , else
+* for, and, or , while
+* list[]
 <!--
 **APNaves/APNaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
